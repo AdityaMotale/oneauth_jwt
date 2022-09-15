@@ -9,6 +9,6 @@ export class AppService {
 
 
   getUsername(): string {
-    return "pari001";
+    return "USERNAME";
   }
 }
